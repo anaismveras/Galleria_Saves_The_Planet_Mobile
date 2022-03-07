@@ -13,4 +13,11 @@ How to Play: Slide Galleria left and right to help her pick up trash and avoid h
 - User has the ability to press start Game button to play again to play
 - if a collision happens with trash Galleria gains trash(points) else if collision happens with Beach Goers Galleria loses trash(points)
 - If Galleria picks up max amount of trash in selected time, game ends, trash and Beach Goers stop
-- 
+- After pressing start, show game screen displaying canvas, amount of trash Galleria (0/40) has picked up and amount of time game is (1:30)
+
+## Stretch Goals
+- Make items go faster over time
+- have a message pop up that shows what the game is about and how to play
+- Have losing and winninng condition noises
+- have a message pop up for losing
+- Reset Button
